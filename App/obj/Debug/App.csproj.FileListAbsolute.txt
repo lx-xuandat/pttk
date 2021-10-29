@@ -1,0 +1,10 @@
+D:\ST2_PTTK\PTTK\App\bin\Debug\App.dll.config
+D:\ST2_PTTK\PTTK\App\bin\Debug\App.dll
+D:\ST2_PTTK\PTTK\App\bin\Debug\App.pdb
+D:\ST2_PTTK\PTTK\App\bin\Debug\EntityFramework.dll
+D:\ST2_PTTK\PTTK\App\bin\Debug\EntityFramework.xml
+D:\ST2_PTTK\PTTK\App\obj\Debug\App.csprojAssemblyReference.cache
+D:\ST2_PTTK\PTTK\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+D:\ST2_PTTK\PTTK\App\obj\Debug\App.csproj.CopyComplete
+D:\ST2_PTTK\PTTK\App\obj\Debug\App.dll
+D:\ST2_PTTK\PTTK\App\obj\Debug\App.pdb
